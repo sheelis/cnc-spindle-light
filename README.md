@@ -7,11 +7,11 @@ You will find here:
 - PCB design
 - Spindle mount design
 
-## FInal result
+## Final result
 
-![Image]()
+![Image](kicad-files/paths.png)
 
-![Image]()
+![Image](kicad-files/3d-pcb.png)
 
 
 ## Parts
