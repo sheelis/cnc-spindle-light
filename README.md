@@ -1,6 +1,6 @@
 # Circular LED strip PCB for CNC spindle light
 
-This is a PCB and spindle attachment design and software to light up the CNC workpiece from all sides in any color or sequence desired.
+This is a PCB and spindle attachment design and software to light up the CNC workpiece from all sides in any color or sequence desired (as long as you can program it to). The LED control is done by FastLED library, so it's not too hard to create your own sequences.
 
 There is also an option to insert 2 lasers at 90* difference from each other in order to produce a cross shape on XY plane exactly where the tool will touch the work piece. Lasers have their own connectors and on/off switch on the PCB.
 There is also a provision for attaching the the Z probe to the pcb, but it is only tested on my own DIY CNC.
@@ -13,7 +13,7 @@ You will find here:
 
 ## Final result
 
-![ImFinal 3d image](spindle-tip-addon/final-3d.png)
+![Final 3d image](spindle-tip-addon/final-3d.png)
 
 ![Wooden mount](spindle-tip-addon/addon-wood.png)
 
@@ -44,3 +44,5 @@ This project requires:
 2. Solder on all the components (I suggest starting with the smallest ones)
 3. Connect the 5v power and LED strip to PCB
 4. Press the button to change the LED mode
+
+PM me for questions and comments!
