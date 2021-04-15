@@ -9,9 +9,13 @@ You will find here:
 
 ## Final result
 
-![Image](kicad-files/paths.png)
+![ImFinal 3d imagege](spindle-tip-addon/final-3d.png)
 
-![Image](kicad-files/3d-pcb.png)
+![Wooden mount](spindle-tip-addon/addon-wood.png)
+
+![PCB](kicad-files/paths.png)
+
+![PCB 3d view](kicad-files/3d-pcb.png)
 
 
 ## Parts
