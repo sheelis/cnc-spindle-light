@@ -11,6 +11,7 @@ You will find here:
 - PCB design
 - Spindle mount design
 
+
 ## Final result
 
 ![Final 3d image](spindle-tip-addon/final-3d.png)
@@ -24,7 +25,7 @@ The mounting holes on the PCB align with any 20mm increment profiles such as my 
 ![PCB 3d view](kicad-files/3d-pcb.png)
 
 
-## Parts
+## Parts list
 
 This project requires:
 - 1x WS2812B LED strip (circular, 24 LEDs)
